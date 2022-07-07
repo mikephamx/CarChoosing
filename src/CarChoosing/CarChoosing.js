@@ -12,9 +12,9 @@ export default class CarChoosing extends Component {
         // let newState = {
         //     imgProduct: imgNewProduct
         // }
-
+                                                                                                                            
         this.setState({
-            //newState
+            //newState                                                                                                                                                                                                                                                              
             imgProduct: imgNewProduct
         });
     }

@@ -1,11 +1,14 @@
-
 import './App.css';
-import CarChoosing from './CarChoosing/CarChoosing';
+import BaiTapChonXeNangCao from './BaiTapChonXeNangCao/BaiTapChonXeNangCao';
+// import CarChoosing from './CarChoosing/CarChoosing';
 
 function App() {
   return (
     <div className="App">
-      <CarChoosing />
+      {/* <CarChoosing /> */}
+      <BaiTapChonXeNangCao/>
+
+
     </div>
   );
 }
